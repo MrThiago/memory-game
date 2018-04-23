@@ -1,12 +1,10 @@
 # Memory Game
 
-> About a year ago, my 4 years old son asked me to play a memory game. It took me about 30 minutes looking for a memory game on Google Play that **doesn't have any jumping ads** in the middle of the game :confused:. 
-
-`Eventually` I decided to write a new simple game without any popuping ads and release it to the store. It took me several days to design / write / test and release. Now, about a year after, I open source it.
+We just wanted a simple memory game for kids 4+ age. No ads, no complicated screens, but a straightforward nice looking, working and open source game.
 
 ### Features
 
-- 2 Themes : `Animals` :cat2: & `Monsters` :octopus:
+- 3 Themes : `Animals` :cat2: `Monsters` :octopus: & `Emojis` :smile:  
 - 6 types of difficulties :star2:
 - Sounds on winning :musical_note:
 
@@ -23,15 +21,16 @@ If you have more ideas or you want to add more options / themes / sounds or what
 ### Next
 
 - [ ] 2 player game
-- [ ] Add one more theme
+- [x] Add one more theme
 - [ ] Add more sounds
 - [ ] Add Game Services support 
 
 ### License
 
-- The code is: `Apache License 2.0`
+- The code is: `Apache License 2.0` (See [LICENSE](./LICENSE.md) for details.)
 - For UI assets please check the licenses here:
 	- http://graphicriver.net/item/animals-collection-farm-and-domestic-set/7177721
 	- http://graphicriver.net/item/monster-creation-kit-and-large-pack/8851390
 	- http://graphicriver.net/item/10-fresh-game-backgrounds/9137937
 	- http://graphicriver.net/item/cartoon-games-gui-pack-11-/6056785
+
